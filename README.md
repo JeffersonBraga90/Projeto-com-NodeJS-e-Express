@@ -3,7 +3,7 @@ O Desafio, consistiu em criar uma aplicação para armazenar projetos e suas tar
 
 # O que foi abordado nesse desafio:
 
-.Conceitos de NodeJS
-.Conceitos de API Rest
-.Query e Route params
-.Middleware
+* Conceitos de NodeJS
+* Conceitos de API Rest
+* Query e Route params
+* Middleware  
